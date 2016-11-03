@@ -1,0 +1,10 @@
+﻿{
+	"Settings": {
+		"ConnectionString": "Server=127.0.0.1;Port=5432;User Id=postgres;Password=sa;Database=caroterp;Pooling=true;MinPoolSize=1;MaxPoolSize=100;",
+		"EncriptionKey": "BC93B776A42877CFEE808823BA8B37C83B6B0AD23198AC3AF2B5A54DCB647658",
+		"Lang": "vi",
+		"Locale": "vi-VN",
+		"CompanyName": "Carot ERP",
+		"CompanyLogo": "/plugins/webvella-desktop/assets/logo.png"
+	}
+}
